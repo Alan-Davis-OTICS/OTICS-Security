@@ -33,6 +33,9 @@ Basic Control (PLCs)
 ### Level 0
 Physical Process
 
+## Network Diagram
+![Purdue Model](purdue-model-diagram.png)
+
 ## Security Recommendations
 
 - Implement network segmentation

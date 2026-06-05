@@ -34,7 +34,7 @@ Basic Control (PLCs)
 Physical Process
 
 ## Network Diagram
-![Purdue Model](purdue-model-diagram.png.pptx)
+![Purdue Model](purdue-model-diagram.png)
 
 ## Security Recommendations
 

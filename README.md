@@ -43,4 +43,4 @@ Physical Process
 
 ## Author
 
-Cybersecurity student and OT professional focused on industrial cybersecurity and critical infrastructure protection.
+OTICS professional focused on industrial cybersecurity and critical infrastructure protection.

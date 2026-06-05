@@ -1,7 +1,7 @@
 # OTICS-Security
 # OT Network Segmentation
 
-### Overview
+#### Overview
 
 This project demonstrates Operational Technology (OT) network segmentation concepts using the Purdue Enterprise Reference Architecture.
 The objective is to reduce risk by separating industrial control systems from business IT networks while maintaining operational requirements.
